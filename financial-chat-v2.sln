@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "financial-chat-v2.Server", "financial-chat-v2.Server\financial-chat-v2.Server.csproj", "{2C1C4AD8-1ECF-4066-9A53-957E1793FE34}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "financial-chat-v2.client", "financial-chat-v2.client\financial-chat-v2.client.esproj", "{441DEB3F-8C8E-41D6-8E87-1DB13BA0D8DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C1C4AD8-1ECF-4066-9A53-957E1793FE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1C4AD8-1ECF-4066-9A53-957E1793FE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1C4AD8-1ECF-4066-9A53-957E1793FE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1C4AD8-1ECF-4066-9A53-957E1793FE34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441DEB3F-8C8E-41D6-8E87-1DB13BA0D8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441DEB3F-8C8E-41D6-8E87-1DB13BA0D8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441DEB3F-8C8E-41D6-8E87-1DB13BA0D8DE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{441DEB3F-8C8E-41D6-8E87-1DB13BA0D8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441DEB3F-8C8E-41D6-8E87-1DB13BA0D8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441DEB3F-8C8E-41D6-8E87-1DB13BA0D8DE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41D65D66-9150-4EFB-A61F-EC4D93745480}
+	EndGlobalSection
+EndGlobal

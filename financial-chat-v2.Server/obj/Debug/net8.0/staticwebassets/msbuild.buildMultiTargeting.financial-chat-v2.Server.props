@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\financial-chat-v2.Server.props" />
+</Project>
